@@ -4,7 +4,7 @@
     
 - :pushpin:Fortaleza - CE   
 -  :briefcase: Publicitário, buscando transição de carreira  em programação
-- ☕ Meu  vício
+- ☕ Meu vício
 
  
 # Primeiros passos em: 
