@@ -5,6 +5,7 @@
 - :pushpin:Fortaleza - CE   
 -  :briefcase: Publicitário, buscando transição de carreiar  em prorgramação
 - ☕ Meu  vício
+
  
 # Estou Aprendendo 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"  largura="40"  altura="40"/>  
