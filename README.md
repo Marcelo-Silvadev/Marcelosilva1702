@@ -2,7 +2,7 @@
 
 #### Bem vindo ao meu perfil Github
     
-- :pushpin:Fortaleza - CE   
+- :pushpin:Fortaleza - CE, Brasil 
 -  :briefcase: Publicitário, buscando transição de carreira  em programação
 - ☕ Meu vício
 
